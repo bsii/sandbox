@@ -4,6 +4,7 @@
 var safari = Application('Safari');
 
 if ( safari ) {
+    
 	windows = safari.windows();
 	var matchingUrls;
 
